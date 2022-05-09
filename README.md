@@ -1,4 +1,13 @@
-Hey my name is Jaxon and I'm currently a student at Richland Community College in Decatur, IL.
-I'm learning Visual Basic and HTML at the moment.
-I have basic knowledge of C++, C#, dotNet, and Java.
-You can reach me on discord: JAX#0229
+Howdy. My name is Jaxon, but you can call me Jax.
+Currently, I'm a student at the University of Illinois in Springfield
+I have an Associate's degree from Richland community college and am pursuing a Bachelor's in Computer Science
+
+I have basic knowledge of:
+  - C++
+  - C#
+  - dotNet
+  - Java
+  - HTML
+  - CSS
+  - Javascript
+  - Visual Basic
